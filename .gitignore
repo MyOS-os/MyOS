@@ -1,0 +1,16 @@
+build/
+output/
+*.o
+*.elf
+*.bin
+*.iso
+
+*.log
+
+.config
+config/.config
+
+.vscode/
+*.swp
+*.sublime-workspace
+.idea/

@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# Build
+build/
+*.o
+*.elf
+*.bin
+*.iso
+
+# Config
+config/.config
+.env
+
+# IDE
+.vscode
+.idea
+
+# Logs
+*.log

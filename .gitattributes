@@ -1,0 +1,35 @@
+# По умолчанию
+* text=auto eol=lf
+
+# Исходники
+*.c     text
+*.h     text
+*.cpp   text
+*.hpp   text
+*.S     text
+*.asm   text
+*.ld    text
+*.cmake text
+Makefile text
+*.mk    text
+
+# Конфиги
+*.config text
+Kconfig  text
+*.env    text
+
+# Документация
+*.md    text
+*.txt   text
+
+# Бинарники — НЕ текст
+*.o     binary
+*.a     binary
+*.elf   binary
+*.bin   binary
+*.iso   binary
+
+# Архивы
+*.tar   binary
+*.gz    binary
+*.xz    binary
